@@ -4,3 +4,4 @@
 
 <h5>Banco de dados Postgres]
 <h5>Linguagem Java
+<h5>Heroku para deploy
